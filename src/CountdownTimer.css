@@ -1,0 +1,19 @@
+@import url('@fontsource/montserrat');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(135deg, #2a2a72, #009ffd);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #ffffff;
+}
+
+small {
+  display: block;
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+}

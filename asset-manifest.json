@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OTHERHALF/static/css/main.f855e6bc.css",
+    "main.js": "/OTHERHALF/static/js/main.cf8b0fe6.js",
+    "static/js/453.c9e2bbd7.chunk.js": "/OTHERHALF/static/js/453.c9e2bbd7.chunk.js",
+    "static/media/logo.svg": "/OTHERHALF/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/OTHERHALF/index.html",
+    "main.f855e6bc.css.map": "/OTHERHALF/static/css/main.f855e6bc.css.map",
+    "main.cf8b0fe6.js.map": "/OTHERHALF/static/js/main.cf8b0fe6.js.map",
+    "453.c9e2bbd7.chunk.js.map": "/OTHERHALF/static/js/453.c9e2bbd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cf8b0fe6.js"
+  ]
+}
